@@ -1,9 +1,5 @@
-<h1 align="center"> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4E16AQHASlxHiJk2UQ/profile-displaybackgroundimage-shrink_350_1400/0/1717627518063?e=1723680000&v=beta&t=TBdTzjRG2v9YsEJf75uVCSZEfHFnFVcr851c7AIWnB8"  />
-</div>
-
-###
+<h1 align="center"> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> welcome to my code</h1>
+<img src="https://raw.githubusercontent.com/VillegasCode/VillegasCode/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/villegas-carlos/" target="_blank">
@@ -79,6 +75,5 @@
 ###
 
 <h1 align="left">👉Visit my website <a href="https://empresarioencasa.org" target="_blank">EmpresarioEnCasa.org</a></h1>
-<img src="https://raw.githubusercontent.com/VillegasCode/VillegasCode/output/snake.svg" alt="Snake animation" />
 
 ###
