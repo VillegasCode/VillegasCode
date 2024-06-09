@@ -1,24 +1,5 @@
 <h1 align="center"> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> welcome to my code</h1>
-<img src="https://raw.githubusercontent.com/VillegasCode/VillegasCode/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/villegas-carlos/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:carlos.villegasch@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://github.com/VillegasCode" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge" height="40" alt="Github logo"  />
-  </a>
-</div>
-
-###
-<h1 align="left">👉About me</h1>
-
-###
-
-<p align="left">Full Stack Developer | Frontend developer | Backend developer | Creator of Digital Academies | Virtual shops | Sales funnels | Membership sites | Web programmer | Graphic Designer | Virtuals courses</p>
+<h3>I use the following technologies:</h3>
 
 ###
 
@@ -71,6 +52,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+<img src="https://raw.githubusercontent.com/VillegasCode/VillegasCode/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/villegas-carlos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:carlos.villegasch@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://github.com/VillegasCode" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge" height="40" alt="Github logo"  />
+  </a>
+</div>
+
+###
+<h1 align="left">👉About me</h1>
+
+###
+
+<p align="left">Full Stack Developer | Frontend developer | Backend developer | Creator of Digital Academies | Virtual shops | Sales funnels | Membership sites | Web programmer | Graphic Designer | Virtuals courses</p>
 
 ###
 
