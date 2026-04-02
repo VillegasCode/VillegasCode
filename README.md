@@ -1,4 +1,4 @@
-<h1 align="center"> Full Stack Developer | MERN | React | Node.js <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Hi there welcome to my code</h1>
+<h1 align="center"> Full Stack Developer | MERN | React | Node.js </h1> <h2>Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> welcome to my code</h2>
 <h3>I use the following technologies:</h3>
 
 ###
